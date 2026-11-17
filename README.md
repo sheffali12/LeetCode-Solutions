@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sheffali12/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sheffali12/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sheffali12/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/sheffali12/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sheffali12/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Array
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sheffali12/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sheffali12/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/sheffali12/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0383-ransom-note](https://github.com/sheffali12/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Linked List
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sheffali12/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/sheffali12/LeetCode-Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
